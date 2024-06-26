@@ -133,6 +133,7 @@ class TaskDetailsPage extends StatelessWidget {
             ),
             Flexible(
         child: ListView(
+          padding: EdgeInsets.zero,
 
             children: const [
          Padding(

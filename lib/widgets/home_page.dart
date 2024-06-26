@@ -323,11 +323,6 @@ class _HomePageState extends State<HomePage> {
     taksList.add(taskThree);
     taksList.add(taskFour);
 
-
-
-
-
-
   }
 }
 
